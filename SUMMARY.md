@@ -78,16 +78,6 @@
   * [Rinkeby](using-ethereum/test-networks/rinkeby.md)
   * [Görli](using-ethereum/test-networks/goerli.md)
 
-## Questions about Ethereum
-
-* [Is Ethereum more expensive to use as price rises?](questions-about-ethereum/is-ethereum-more-expensive-to-use-as-price-rises.md)
-* [Why do you have to pay to use Ethereum?](questions-about-ethereum/why-do-you-have-to-pay-to-use-ethereum.md)
-* [Is Ethereum a security?](questions-about-ethereum/is-ethereum-a-security.md)
-* [Is Ethereum over 1TB in size?](questions-about-ethereum/is-ethereum-over-1tb-in-size.md)
-* [Is Ethereum immutable?](questions-about-ethereum/is-ethereum-immutable.md)
-* [Is Ether needed for transaction fees?](questions-about-ethereum/is-ether-needed-for-transaction-fees.md)
-* [If Ethereum is open source why can't it be copied?](questions-about-ethereum/if-ethereum-is-open-source-why-cant-it-be-copied.md)
-
 ## Built on Ethereum
 
 * [Open Finance](built-on-ethereum/open-finance/README.md)
@@ -121,6 +111,7 @@
   * [Insurance](built-on-ethereum/open-finance/insurance/README.md)
     * [Etherisc](built-on-ethereum/open-finance/insurance/etherisc.md)
   * [0x Protocol](built-on-ethereum/open-finance/0x-protocol.md)
+  * [WBTC](built-on-ethereum/open-finance/wbtc.md)
   * [8x](built-on-ethereum/open-finance/8x.md)
   * [Bskt](built-on-ethereum/open-finance/bskt.md)
   * [cdx](built-on-ethereum/open-finance/cdx.md)
@@ -148,7 +139,7 @@
     * [Loopring](built-on-ethereum/decentralized-exchanges/off-chain-orderbook/loopring.md)
     * [Hydro](built-on-ethereum/decentralized-exchanges/off-chain-orderbook/hydro.md)
   * [Peer to Peer](built-on-ethereum/decentralized-exchanges/peer-to-peer/README.md)
-    * [Republic Protocol](built-on-ethereum/decentralized-exchanges/peer-to-peer/republic-protocol.md)
+    * [Ren](built-on-ethereum/decentralized-exchanges/peer-to-peer/ren.md)
     * [AirSwap](built-on-ethereum/decentralized-exchanges/peer-to-peer/airswap.md)
   * [Pool Based](built-on-ethereum/decentralized-exchanges/pool-based/README.md)
     * [Uniswap](built-on-ethereum/decentralized-exchanges/pool-based/uniswap.md)
@@ -157,7 +148,7 @@
 * [Games](built-on-ethereum/games/README.md)
   * [CryptoKitties](built-on-ethereum/games/cryptokitties.md)
   * [Etheroll](built-on-ethereum/games/etheroll.md)
-  * [God's Unchained](built-on-ethereum/games/gods-unchained.md)
+  * [Gods Unchained](built-on-ethereum/games/gods-unchained.md)
   * [Zombie Battleground](built-on-ethereum/games/zombie-battleground.md)
 * [Collectibles](built-on-ethereum/collectables/README.md)
   * [CryptoPunks](built-on-ethereum/collectables/cryptopunks.md)
@@ -170,6 +161,7 @@
   * [RareBits](built-on-ethereum/marketplaces/rarebits.md)
 * [Developer Tools](built-on-ethereum/developer-tools/README.md)
   * [Gitcoin](built-on-ethereum/developer-tools/gitcoin.md)
+  * [WalletConnect](built-on-ethereum/developer-tools/walletconnect.md)
   * [Kauri](built-on-ethereum/developer-tools/kauri.md)
   * [Mintable](built-on-ethereum/developer-tools/mintable.md)
   * [OneClickdApp](built-on-ethereum/developer-tools/oneclickdapp.md)
@@ -193,6 +185,16 @@
   * [Streamr](built-on-ethereum/infrastructure/streamr.md)
 * [Token Curated Registries \(TCRs\)](built-on-ethereum/tcrs/README.md)
   * [Types of TCRs](built-on-ethereum/tcrs/types-of-tcrs.md)
+
+## Questions about Ethereum
+
+* [Is Ethereum more expensive to use as price rises?](questions-about-ethereum/is-ethereum-more-expensive-to-use-as-price-rises.md)
+* [Why do you have to pay to use Ethereum?](questions-about-ethereum/why-do-you-have-to-pay-to-use-ethereum.md)
+* [Is Ethereum a security?](questions-about-ethereum/is-ethereum-a-security.md)
+* [Is Ethereum over 1TB in size?](questions-about-ethereum/is-ethereum-over-1tb-in-size.md)
+* [Is Ethereum immutable?](questions-about-ethereum/is-ethereum-immutable.md)
+* [Is Ether needed for transaction fees?](questions-about-ethereum/is-ether-needed-for-transaction-fees.md)
+* [If Ethereum is open source why can't it be copied?](questions-about-ethereum/if-ethereum-is-open-source-why-cant-it-be-copied.md)
 
 ## Glossary
 
